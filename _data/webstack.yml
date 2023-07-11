@@ -256,9 +256,12 @@
       url: https://www.wenjiangs.com/docs-indexes
       
       
-- name: 图标素材
+- name: 图标素材/颜色
   icon: linecons-user
   links:
+    - title: HTML颜色代码
+      url: https://htmlcolorcodes.com/zh/
+      description: HTML颜色选择器、对照表、转换器
     - title: IcoMoonApp
       url: https://icomoon.io/app
     - title: Shields.io
