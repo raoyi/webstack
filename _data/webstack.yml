@@ -7,6 +7,10 @@
       url: https://developer.aliyun.com/tool
     - title: 科大开源镜像
       url: https://mirrors.ustc.edu.cn/
+    - title: 南京大学开源镜像
+      url: http://mirrors.nju.edu.cn/
+    - title: 北京大学开源镜像
+      url: http://mirrors.pku.edu.cn/
     - title: 清华开源镜像
       url: https://mirrors.tuna.tsinghua.edu.cn/
     - title: NPM Mirror
