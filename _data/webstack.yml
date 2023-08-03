@@ -1,6 +1,8 @@
 - name: 镜像源
   icon: linecons-doc
   links: 
+    - title: 腾讯软件源
+      url: https://mirrors.tencent.com/
     - title: 华为开源镜像
       url: https://mirrors.huaweicloud.com/
     - title: 阿里云开发者工具
