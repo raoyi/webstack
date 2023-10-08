@@ -344,6 +344,14 @@
       description: 英文词典，最厉害的是可以选择通配符
   
   
+- name: 天文航天
+  icon: linecons-diamond
+  links:
+    - title: OpenRocket
+      url: https://openrocket.info/
+      description: 一个自己设计火箭的网站
+
+
 - name: 其他
   icon: linecons-diamond
   links:
@@ -374,7 +382,4 @@
     - title: 合成器启蒙
       url: https://learningsynths.ableton.com/zh-Hans
       description: 合成器音乐启蒙
-    - title: OpenRocket
-      url: https://openrocket.info/
-      description: 一个自己设计火箭的网站
       
