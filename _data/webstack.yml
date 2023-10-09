@@ -347,6 +347,11 @@
 - name: 天文航天
   icon: linecons-diamond
   links:
+    - title: Stellarium
+      url: http://stellarium.org/zh_CN/
+      description: 虚拟天文馆
+    - title: sky guide
+      url: https://www.skyguide.ch/
     - title: OpenRocket
       url: https://openrocket.info/
       description: 一个自己设计火箭的网站
