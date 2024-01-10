@@ -28,13 +28,11 @@ email: hi@raoyi.net
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
-github:
-  repo: raoyi/webstack
-
-include: [_layouts]
+# github:
+#   repo: raoyi/webstack
 
 # Exclude from processing.
 # The following items will not be processed, by default.
