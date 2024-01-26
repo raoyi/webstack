@@ -199,6 +199,8 @@
 - name: Pastebin
   icon: linecons-star
   links:
+    - title: 代码小抄
+      url: https://www.codecopy.cn/
     - title: Pastebin.com
       url: https://pastebin.com/
     - title: Ubuntu Pastebin
