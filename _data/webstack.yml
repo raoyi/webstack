@@ -370,6 +370,9 @@
 - name: 其他
   icon: linecons-diamond
   links:
+    - title: Eli Fulkerson
+      url: https://elifulkerson.com/projects/
+      description: 很多实用的网络工具
     - title: Bellard
       url: https://bellard.org/
       description: 天才程序员Fabrice Bellard
