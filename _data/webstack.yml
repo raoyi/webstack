@@ -158,6 +158,9 @@
 - name: 工具软件
   icon: linecons-pencil
   links:
+    - title: 杏雨梨云启动维护系统
+      url: https://www.xyboot.com/
+      description: https://www.xyboot.com/obr/
     - title: SS64
       url: https://ss64.com/
       description: Command line reference
