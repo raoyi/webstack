@@ -397,7 +397,7 @@
       url: https://www.britannica.com/
       description: 英文版
     - title: 通用规范汉字表
-      url: https://raoyi.gitee.io/filestack/GeneralSpecificationChineseCharacter.pdf
+      url: https://gitee.com/raoyi/filestack/raw/master/GeneralSpecificationChineseCharacter.pdf
     - title: 中小学语文示范诵读
       url: http://edu.cnr.cn/eduzt/ywkwsfsd/
     - title: 合成器启蒙
