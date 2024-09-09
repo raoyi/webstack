@@ -269,6 +269,8 @@
 - name: 文档
   icon: linecons-diamond
   links:
+    - title: IBM 文档
+      url: https://www.ibm.com/docs/zh
     - title: MDN Web Docs
       url: https://developer.mozilla.org/
     - title: JavaScript Info
