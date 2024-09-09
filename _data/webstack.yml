@@ -207,6 +207,8 @@
 - name: Pastebin
   icon: linecons-star
   links:
+    - title: GitHub Gist
+      url: https://gist.github.com/
     - title: 代码小抄
       url: https://www.codecopy.cn/
     - title: Pastebin.com
@@ -215,10 +217,6 @@
       url: https://pastebin.ubuntu.com/
     - title: CentOS Pastebin
       url: https://pastebin.centos.org/
-    - title: Anon Paste
-      url: http://anonpaste.tk/
-    - title: Peoples Liberation Front
-      url: https://peoplesliberationfront.tk/
 
 
 - name: 开源邮局系统
