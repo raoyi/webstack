@@ -1,0 +1,409 @@
+- name: 镜像源
+  icon: linecons-doc
+  links: 
+    - title: 腾讯软件源
+      url: https://mirrors.tencent.com/
+    - title: 华为开源镜像
+      url: https://mirrors.huaweicloud.com/
+    - title: 阿里云开发者工具
+      url: https://developer.aliyun.com/tool
+    - title: 校园网联合镜像站
+      url: https://mirrors.cernet.edu.cn/list
+    - title: 科大开源镜像
+      url: https://mirrors.ustc.edu.cn/
+    - title: 南京大学开源镜像
+      url: http://mirrors.nju.edu.cn/
+    - title: 北京大学开源镜像
+      url: http://mirrors.pku.edu.cn/
+    - title: 清华开源镜像
+      url: https://mirrors.tuna.tsinghua.edu.cn/
+    - title: NPM Mirror
+      url: http://npmmirror.com/
+    - title: Staticfile CDN
+      url: http://staticfile.net/
+
+
+- name: 编程语言
+  icon: linecons-star
+  sub:
+    - name: Python
+      links:
+        - title: Python.org
+          url: https://www.python.org/
+        - title: PYPI
+          url: https://pypi.org/
+        - title: Python库whl
+          url: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+        - title: OpenCV
+          url: https://opencv.org/
+        - title: 廖雪峰
+          url: https://www.liaoxuefeng.com/wiki/1016959663602400
+        - title: 白月黑羽
+          url: https://www.byhy.net/
+        - title: 莫烦Python
+          url: https://mofanpy.com/
+        - title: scikit-image教程
+          url: https://cloud.tencent.com/developer/doc/1221
+          description: image processing in python
+          
+    - name: PowerShell
+      links:
+        - title: 脚本编写
+          url: https://docs.microsoft.com/zh-cn/powershell/scripting/overview?view=powershell-7.2
+          description: 微软官方文档
+        - title: Tip of the Week
+          url: https://learn.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-powershell-1.0/ee692791(v=technet.10)
+          description: 英文，官方
+        - title: PowerShell Gllery
+          url: https://www.powershellgallery.com/
+          description: 官方
+        - title: PS Tips
+          url: https://www.pstips.net/
+        - title: PowerShell.one
+          url: https://powershell.one/
+        - title: PowerShell Script
+          url: https://itproguru.com/Scripts/
+          description: For IT Executives and Engineers; Helping YOU architect & build successful strategies and solutions
+        - title: chaoyuew@gitee
+          url: https://chaoyuew.gitee.io/
+          
+    - name: AutoIt
+      links:
+        - title: AutoIt中文文档
+          url: https://www.autoitx.com/Doc/
+          
+    - name: Rust
+      links:
+        - title: Rust
+          url: https://www.rust-lang.org/zh-CN/
+          description: Rust官网
+        - title: crates.io
+          url: https://crates.io/
+          description: The Rust community’s crate registry
+        - title: windows-rs
+          url: https://github.com/microsoft/windows-rs
+          description: 微软开源的Rust GUI，Rust for Windows
+          
+    - name: 微信小程序
+      links:
+        - title: WePY
+          url: https://wepyjs.gitee.io/wepy-docs/
+        - title: WeUI
+          url: https://weui.io/
+
+
+- name: 代码基础及练习
+  icon: linecons-lightbulb
+  sub:
+    - name: 算法
+      links:
+        - title: Big-O 算法复杂性备忘清单
+          url: https://www.bigocheatsheet.com/
+        - title: PythonTutor
+          url: https://pythontutor.com/
+        - title: Visual algo
+          url: https://visualgo.net/zh
+        - title: The Algorithms
+          url: https://the-algorithms.com/
+        - title: 算法MOOC
+          url: https://www.algomooc.com/
+        - title: GeeksforGeeks
+          url: https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+          
+    - name: 刷题
+      links:
+        - title: LeetCode
+          url: https://leetcode.cn/
+        - title: 牛客网
+          url: https://www.nowcoder.com/
+        - title: 算法珠玑
+          url: https://algorithm-essentials.soulmachine.me/
+        - title: 炼码
+          url: https://www.lintcode.com/
+        - title: 欧拉计划（中文版）
+          url: http://pe-cn.github.io/
+          description: 英文版地址 https://projecteuler.net/
+        - title: CODEFORCES
+          url: http://codeforces.com/problemset
+          description: sponsored by TON
+        - title: HackerRank刷题
+          url: https://www.hackerrank.com/domains/algorithms
+          
+          
+- name: 电子书
+  icon: linecons-thumbs-up
+  links:
+    - title: Z-Library
+      url: https://zlibrary-global.se/
+    - title: Liber3
+      url: https://liber3.eth.limo/
+    - title: 无名图书
+      url: https://www.book123.info/
+    - title: Pirate Library Mirror
+      url: http://pilimi.org/
+    - title: Anna's Archive
+      url: https://annas-archive.org/
+    - title: Library Genesis
+      url: https://libgen.is/
+    - title: LoreFree
+      url: https://ebook2.lorefree.com/
+    - title: 书籍知识库
+      url: https://book.zhishikoo.com/
+    - title: 全国图书馆参考咨询联盟
+      url: http://www.ucdrs.superlib.net/
+    - title: 书伴
+      url: https://bookfere.com/
+      
+      
+- name: 工具软件
+  icon: linecons-pencil
+  links:
+    - title: 杏雨梨云启动维护系统
+      url: https://www.xyboot.com/
+      description: https://www.xyboot.com/obr/
+    - title: SS64
+      url: https://ss64.com/
+      description: Command line reference
+    - title: NirSoft
+      url: https://www.nirsoft.net/
+      description: NirLauncher - http://launcher.nirsoft.net/
+    - title: 帮小忙
+      url: https://tool.browser.qq.com/
+      description: 腾讯QQ浏览器在线工具箱平台
+    - title: 木鱼查询
+      url: https://www.bchrt.com/
+      description: 各种计算器、工具、文档
+    - title: 开源地理空间基金会中文分会
+      url: https://www.osgeo.cn/
+    - title: Road 2 Coding
+      url: https://r2coding.com/
+    - title: Yank Note
+      url: https://github.com/purocean/yn/releases
+    - title: Ventoy
+      url: https://github.com/ventoy/Ventoy
+      description: 多系统启动U盘解决方案
+    - title: Vercel
+      url: https://vercel.com/
+    - title: Netlify
+      url: https://www.netlify.com/
+    - title: Cloudflare
+      url: https://www.cloudflare.com/
+    - title: 智影
+      url: https://zenvideo.qq.com/
+    - title: Motrix
+      url: https://motrix.app/
+    - title: PowerToys
+      url: https://github.com/microsoft/PowerToys
+      description: 微软出品
+    - title: Sysinternals
+      url: http://www.sysinternals.com/
+      description: 微软出品的一堆小工具
+    - title: GoogleDevelopers|Silicon
+      url: https://developers.google.cn/silicon
+    - title: Obsidian
+      url: https://obsidian.md/
+
+
+- name: Pastebin
+  icon: linecons-star
+  links:
+    - title: GitHub Gist
+      url: https://gist.github.com/
+    - title: 代码小抄
+      url: https://www.codecopy.cn/
+    - title: Pastebin.com
+      url: https://pastebin.com/
+    - title: Ubuntu Pastebin
+      url: https://pastebin.ubuntu.com/
+    - title: CentOS Pastebin
+      url: https://pastebin.centos.org/
+
+
+- name: 开源邮局系统
+  icon: linecons-star
+  links:
+    - title: iRedMail
+      url: https://www.iredmail.org/
+    - title: Citadel
+      url: https://www.citadel.org/
+    - title: EwoMail
+      url: http://www.ewomail.com/
+    - title: Mailcow
+      url: https://mailcow.email/
+    - title: SOGo
+      url: https://www.sogo.nu/
+    - title: Modoboa
+      url: https://modoboa.org/
+    - title: MXroute
+      url: https://mxroute.com/
+      description: 备用
+      
+      
+- name: 操作系统
+  icon: linecons-heart
+  sub:
+    - name: Windows
+      links:
+        - title: Win10文档
+          url: https://docs.microsoft.com/zh-cn/windows/windows-10/
+          description: 微软官方文档
+        - title: WinPE
+          url: https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11
+          description: 微软官方文档
+        
+    - name: Linux
+      links:
+        - title: Linux就该这么学
+          url: https://www.linuxprobe.com/
+        - title: Linux命令大全
+          url: https://www.linuxcool.com/
+        - title: Linux Kernel
+          url: https://www.kernel.org/
+        - title: 鸟哥Linux
+          url: https://linux.vbird.org/
+        - title: 《The Linux Command Line》中文版
+          url: https://www.kancloud.cn/thinkphp/linux-command-line/39431
+        - title: Bash Prompt
+          url: https://bash-prompt.net/
+      
+      
+- name: 文档
+  icon: linecons-diamond
+  links:
+    - title: IBM 文档
+      url: https://www.ibm.com/docs/zh
+    - title: MDN Web Docs
+      url: https://developer.mozilla.org/
+    - title: JavaScript Info
+      url: https://zh.javascript.info/
+    - title: GrowingWithTheWeb
+      url: https://www.growingwiththeweb.com/
+    - title: WHATWG Community
+      url: https://whatwg.org/
+    - title: 网道
+      url: https://wangdoc.com/
+    - title: 文江博客
+      url: https://www.wenjiangs.com/docs-indexes
+      
+      
+- name: 图标素材及颜色
+  icon: linecons-user
+  links:
+    - title: HTML颜色代码
+      url: https://htmlcolorcodes.com/zh/
+      description: HTML颜色选择器、对照表、转换器
+    - title: IcoMoonApp
+      url: https://icomoon.io/app
+    - title: Shields.io
+      url: https://shields.io/
+    - title: Iconfinder
+      url: https://www.iconfinder.com
+      description: 2,100,000+ free and premium vector icons.
+    - title: iconfont
+      url: http://www.iconfont.cn/
+      description: 阿里巴巴矢量图标库
+    - title: iconmonstr
+      url: https://iconmonstr.com/
+      description: Free simple icons for your next project
+    - title: Icon Archive
+      url: http://www.iconarchive.com/
+      description: Search 590,912 free icons
+    - title: FindIcons
+      url: https://findicons.com/
+      description: Search through 300,000 free icons
+    - title: IcoMoonApp
+      url: https://icomoon.io/app/
+      description: Icon Font, SVG, PDF &amp; PNG Generator
+    - title: easyicon
+      url: http://www.easyicon.net/
+      description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+    - title: flaticon
+      url: https://www.flaticon.com/
+      description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
+    - title: UICloud
+      url: http://ui-cloud.com/
+      description: The largest user interface design database in the world.
+    - title: Material icons
+      url: https://material.io/icons/
+      description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
+    - title: Font Awesome Icon
+      url: https://fontawesome.com/icons/
+      description: The complete set of 675 icons in Font Awesome
+    - title: ion icons
+      url: http://ionicons.com/
+      description: The premium icon font for Ionic Framework.
+    - title: Simpleline Icons
+      url: http://simplelineicons.com/
+      description: Simple line Icons pack
+      
+
+- name: 词典
+  icon: linecons-doc
+  links:
+    - title: 剑桥词典
+      url: https://dictionary.cambridge.org/
+      description: 英音 美音 例句 搭配
+    - title: 牛津词典
+      url: https://www.dictionary.com/
+      description: 英音 例句 近义词 搭配 词源
+    - title: 柯林斯词典
+      url: https://www.collinsdictionary.com/
+      description: 英音 美音 例句 近义词 词源 词频
+    - title: 朗文词典
+      url: https://www.ldoceonline.com/
+      description: 英音 美音 例句 搭配 词源 词频
+    - title: 韦氏词典
+      url: https://www.merriam-webster.com/
+      description: 美音 例句 近义词 搭配 词源
+    - title: regdict
+      url: https://app.nestattacked.com/regdict/
+      description: 英文词典，最厉害的是可以选择通配符
+  
+  
+- name: 天文航天
+  icon: linecons-diamond
+  links:
+    - title: Stellarium
+      url: http://stellarium.org/zh_CN/
+      description: 虚拟天文馆
+    - title: sky guide
+      url: https://www.skyguide.ch/
+    - title: OpenRocket
+      url: https://openrocket.info/
+      description: 一个自己设计火箭的网站
+
+
+- name: 其他
+  icon: linecons-diamond
+  links:
+    - title: Eli Fulkerson
+      url: https://elifulkerson.com/projects/
+      description: 很多实用的网络工具
+    - title: Bellard
+      url: https://bellard.org/
+      description: 天才程序员Fabrice Bellard
+    - title: 阮一峰
+      url: https://www.ruanyifeng.com/
+    - title: 金步国
+      url: http://www.jinbuguo.com/
+    - title: 小林coding
+      url: https://xiaolincoding.com/
+    - title: schneegans.de
+      url: https://schneegans.de/
+    - title: tslow
+      url: https://tslow.cn/
+    - title: Anna's Blog
+      url: http://annas-blog.org/
+    - title: Hacker News
+      url: https://news.ycombinator.com/news
+    - title: 大英百科全书
+      url: https://www.britannica.com/
+      description: 英文版
+    - title: 通用规范汉字表
+      url: https://gitee.com/raoyi/filestack/raw/master/GeneralSpecificationChineseCharacter.pdf
+    - title: 中小学语文示范诵读
+      url: http://edu.cnr.cn/eduzt/ywkwsfsd/
+    - title: 合成器启蒙
+      url: https://learningsynths.ableton.com/zh-Hans
+      description: 合成器音乐启蒙
+      
