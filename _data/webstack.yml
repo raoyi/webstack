@@ -167,6 +167,9 @@
     - title: NirSoft
       url: https://www.nirsoft.net/
       description: NirLauncher - http://launcher.nirsoft.net/
+    - title: NMAP
+      url: https://nmap.org/
+      description: 网络探测和安全审核工具。Windows:https://npcap.com/
     - title: GitHub中文社区
       url: https://www.github-zh.com/
     - title: 帮小忙
