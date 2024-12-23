@@ -30,10 +30,8 @@
       links:
         - title: Python.org
           url: https://www.python.org/
-        - title: PYPI
+        - title: PyPI
           url: https://pypi.org/
-        - title: Python库whl
-          url: https://www.lfd.uci.edu/~gohlke/pythonlibs/
         - title: OpenCV
           url: https://opencv.org/
         - title: 廖雪峰
