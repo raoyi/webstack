@@ -156,6 +156,9 @@
 - name: 工具软件
   icon: linecons-pencil
   links:
+    - title: Trae
+      url: https://www.trae.com.cn/
+      description: AI原生IDE
     - title: 杏雨梨云启动维护系统
       url: https://www.xyboot.com/
       description: https://www.xyboot.com/obr/
