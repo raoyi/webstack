@@ -297,6 +297,8 @@
 - name: 图标素材及颜色
   icon: linecons-user
   links:
+    - title: 有趣的CSS
+      url: https://funcss.liujueyi.cn/
     - title: HTML颜色代码
       url: https://htmlcolorcodes.com/zh/
       description: HTML颜色选择器、对照表、转换器
