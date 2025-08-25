@@ -32,6 +32,9 @@
           url: https://www.python.org/
         - title: PyPI
           url: https://pypi.org/
+        - title: pythonanywhere
+          url: https://www.pythonanywhere.com/
+          description: Host, run, and code Python in the cloud
         - title: OpenCV
           url: https://opencv.org/
         - title: 廖雪峰
